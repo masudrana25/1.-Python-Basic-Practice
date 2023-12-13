@@ -11,4 +11,4 @@ b=4
 #print(a//b)
 
 # power 
-print(b**3)
+#print(b**3)
