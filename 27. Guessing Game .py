@@ -1,6 +1,6 @@
 import random
 for x in range(1,6,1) :
-  random_number = random.randint(1,6)
+  random_number = random.randint(1,5)
   guess_number = int(input('Enter a Guess Number : '))
 
   if guess_number == random_number :
